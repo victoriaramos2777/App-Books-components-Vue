@@ -9,3 +9,18 @@ button{
     padding: 0.3em;
     margin: 2%;
 }
+
+#app{
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid aqua;
+    
+}
+ul{
+    display: flex;
+    gap: 3%;
+    width: 100%;
+    border: 1px solid aqua;
+}
