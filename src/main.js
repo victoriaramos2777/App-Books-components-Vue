@@ -1,4 +1,4 @@
-//modo static 
+//modo static
 import { createApp } from "vue";
 import "./assets/main.css";
 import App from "./App.vue";
